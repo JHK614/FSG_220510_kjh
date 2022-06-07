@@ -342,6 +342,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Script/Bullet.cs"
+"Assets/Script/Enemy.cs"
+"Assets/Script/EnemySpawn.cs"
 "Assets/Script/inputController.cs"
 "Assets/Script/Logics.cs"
 "Assets/Vertical 2D Shooting BE4/ReadMe/Scripts/ReadmeBE4.cs"
