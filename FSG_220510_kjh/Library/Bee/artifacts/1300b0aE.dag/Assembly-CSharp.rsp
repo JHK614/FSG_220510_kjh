@@ -346,6 +346,7 @@
 "Assets/Script/EnemySpawn.cs"
 "Assets/Script/inputController.cs"
 "Assets/Script/Logics.cs"
+"Assets/Script/Player.cs"
 "Assets/Vertical 2D Shooting BE4/ReadMe/Scripts/ReadmeBE4.cs"
 -langversion:8.0
 

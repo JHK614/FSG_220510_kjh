@@ -10,6 +10,7 @@ public class inputController : MonoBehaviour
 
     private void Update()
     {
+        if (Logics.Instance.GetState != Logics.GameState.Play) return;
         // 게임 객체 이동, 공격, 게임 전반적인 이동 등이 해당
 
         if (Input.GetKey(KeyCode.UpArrow))

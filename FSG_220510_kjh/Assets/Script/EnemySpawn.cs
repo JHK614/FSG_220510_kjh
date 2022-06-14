@@ -21,6 +21,8 @@ public class EnemySpawn : MonoBehaviour{
 
     private void Update()
     {
+        if (Logics.Instance.GetState != Logics.GameState.Play) return;
+
         flag += Time.fixedDeltaTime;
         if (flag >= 4f)
         {
